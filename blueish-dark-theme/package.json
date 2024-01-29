@@ -1,0 +1,42 @@
+{
+  "name": "blueish-dark",
+  "displayName": "Blueish Dark",
+  "description": "A VS Code Dark theme with blue and gray tones.",
+  "version": "0.0.1",
+  "publisher": "yigits",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "img/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "blueish dar",
+    "dark",
+    "theme",
+    "black",
+    "dark theme",
+    "black theme",
+    "blue theme",
+    "gray theme",
+    "blueish theme",
+    "blue dark theme",
+    "blue dark",
+    "gray dark theme",
+    "gray theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yigitsr/Blueish-Dark-VS-Code-Extension"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blueish Dark",
+        "uiTheme": "vs-dark",
+        "path": "./BlueishDark.json"
+      }
+    ]
+  }
+}
